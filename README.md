@@ -49,17 +49,17 @@ The main components of WAR for position players are runs from batting, fielding,
 
 This points to the first scenario in which xWAR is a bit of a misnomer for this calculation - it combines things that aren't outcome dependent on an individual basis (xwOBA) with fielding stats that reflect the outcome of a play. Because of this, xWAR isn't so much of an answer to the question "how good was this player completely outside the influence of his circumstances", but more so an answer to the question "how good does Statcast suggest this player is" - which is more in line with what motivated this project anyway.
 
-This also suggests that xWAR is no more predictive than regular WAR - not very. xWAR can only be calculated from the 2017 season onwards (Statcast's OAA history), and the level of correlation between xWAR and the following year's fWAR is low, similar to the correlation between fWAR and fWAR from the following year. The r2 score between xWAR and fWAR from the same season is strong however, as can be seen in the table below.
+This also suggests that xWAR is no more predictive than regular WAR - not very. xWAR can only be calculated from the 2017 season onwards (Statcast's OAA history), and the level of correlation between xWAR and the following year's fWAR is low, similar to the correlation between fWAR and fWAR from the following year. The r<sup>2</sup> score between xWAR and fWAR from the same season is strong however, as can be seen in the table below.
 
-Year	R2
+Year	  R<sup>2</sup>
 
-2017	0.816
+2017	  0.816
 
-2018	0.844
+2018	  0.844
 
-2019	0.846
+2019  	0.846
 
-2020	0.654
+2020	  0.654
 
 Plus, xWAR and fWAR follow similar distributions:
 
