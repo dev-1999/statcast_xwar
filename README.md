@@ -78,6 +78,6 @@ Plus, xWAR and fWAR follow similar distributions:
 
 Another limitation of this project is that the inputs for defense are whole numbers. Presumably a decimal-accurate measure of runs saved from framing/defense exists somewhere in the Google Cloud<sup>TM</sup> but xWAR incorporates only the outward facing stuff from Baseball Savant. Furthermore, fWAR (and others) account for league adjustment and park factors, and I omitted both from my calculation of xWAR. I did use Fangraphs' calculations for the wOBA Scale and the Runs/Win value for each year for simplicity's sake - you can read how Fangraphs' calculates WAR for position players here: https://library.fangraphs.com/war/war-position-players/.
 
-Link to article: 
+[Link to Article](https://washusportsanalytics.wixsite.com/washusportsanalytics/post/using-statcast-data-to-create-a-wins-above-replacement-metric)
 
 Email me: devlin.s@wustl.edu
