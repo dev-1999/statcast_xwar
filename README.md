@@ -1,5 +1,5 @@
 # Statcast xWAR
-Using Baseball Savant statistics to formulate a wins above replacement statistic.
+Using Baseball Savant statistics to formulate a wins above replacement statistic using Python.
 
 ## What's in here?
 - _xwar_obj.ipynb_
